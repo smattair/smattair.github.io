@@ -7,11 +7,8 @@ about:
   image-shape: round
   image-width: 17em
 ---
-Hi!! My name is Sierra Mattair and this is my first website! I'm majoring in Ecosystem Science and Sustainability at Colorado State University. I love being outside and being in nature. I enjoy the deep forest, bodies of water, hikes, and roadtrips. I love learning new things and expanding my knwodlege as a student! Enjoy exploring my site! test
+Hi!! My name is Sierra Mattair and this is my first website! I'm majoring in Ecosystem Science and Sustainability at Colorado State University. I love being outside and being in nature. I enjoy the deep forest, bodies of water, hikes, and road trips. I love learning new things and expanding my knowledge as a student! Enjoy exploring my site! 
 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
