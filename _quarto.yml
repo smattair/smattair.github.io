@@ -4,6 +4,7 @@ project:
 
 website:
   title: "smattair.github.io"
+  site-url: https://smattair.github.io/
   navbar:
     left:
       - href: index.qmd
