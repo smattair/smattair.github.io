@@ -1,6 +1,6 @@
 ---
 title: "Sierra Mattair"
-image: myimage.jpg
+image: myimage.png
 TOC: false
 about:
   template: jolla
