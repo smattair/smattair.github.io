@@ -13,6 +13,7 @@ website:
       - projects.qmd
       - resume.qmd
 
+
 format:
   html:
     theme:

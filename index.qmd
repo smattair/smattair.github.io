@@ -7,11 +7,14 @@ about:
   image-shape: round
   image-width: 17em
   links: 
-   - text: LinkedIn
+   - icon: linkedin
+     text: LinkedIn
      href: https://www.linkedin.com/in/sierra-mattair/
-   - text: GitHub
+   - icon: github
+     text: GitHub
      href: https://github.com/smattair
-   - text: Email
+   - icon: envelope
+     text: Email
      href: mailto:smattair@colostate.edu
 
 ---
