@@ -1,5 +1,5 @@
 ---
-title: "My Projects "
+title: "My Projects"
 ---
 
 In Spring of 2025 I took a Quantitative Reasoning class.
