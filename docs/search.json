@@ -2,15 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About this Site",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a determined and strong-willed individual. I pride myself in always doing my best and taking the next step forward.\nI focus on the concepts of sustainability and environmental conservation. It is important for humans and nature to live in harmony while maintain everyone’s health and well-being!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "In Spring of 2025 I took a Quantitative Reasoning class.\n\nIn this assignment, I learned how to build my own user site using GitHub\nIt includes my Github repository with access to all of my code for the project\nI included images of me, paragraphs about me, as well as my projects.\nIt also includes my professional information like my LinkedIn and my resume\nI learned how to overcome issues and recognize where my errors occurred while building this website"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is my resume:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sierra Mattair",
     "section": "",
-    "text": "Hi!! My name is Sierra Mattair and this is my first website! I’m majoring in Ecosystem Science and Sustainability at Colorado State University. I love being outside and being in nature. I enjoy the deep forest, bodies of water, hikes, and road trips. I love learning new things and expanding my knowledge as a student! Enjoy exploring my site!!"
+    "text": "Hi!! My name is Sierra Mattair and this is my first website! I’m majoring in Ecosystem Science and Sustainability at Colorado State University. I love being outside and being in nature. I enjoy the deep forest, bodies of water, hikes, and road trips. I love learning new things and expanding my knowledge! Enjoy exploring my site!!"
   }
 ]

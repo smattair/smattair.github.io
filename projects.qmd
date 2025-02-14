@@ -1,0 +1,15 @@
+---
+title: "My Projects"
+---
+
+In Spring of 2025 I took a Quantitative Reasoning class.
+
+-   In this assignment, I learned how to build my own user site using GitHub
+
+-   It includes my Github repository with access to all of my code for the project
+
+-   I included images of me, paragraphs about me, as well as my projects.
+
+-   It also includes my professional information like my LinkedIn and my resume
+
+-   I learned how to overcome issues and recognize where my errors occurred while building this website

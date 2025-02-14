@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://smattair.github.io/about.html</loc>
-    <lastmod>2025-02-12T22:07:48.206Z</lastmod>
+    <lastmod>2025-02-14T03:20:44.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smattair.github.io/projects.html</loc>
+    <lastmod>2025-02-14T02:42:55.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smattair.github.io/resume.html</loc>
+    <lastmod>2025-02-14T03:21:51.785Z</lastmod>
   </url>
   <url>
     <loc>https://smattair.github.io/index.html</loc>
-    <lastmod>2025-02-14T01:59:58.793Z</lastmod>
+    <lastmod>2025-02-14T02:19:29.773Z</lastmod>
   </url>
 </urlset>

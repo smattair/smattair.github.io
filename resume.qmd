@@ -1,0 +1,8 @@
+---
+title: "Resume"
+format: html
+---
+
+Here is my resume:
+
+<iframe src="Resume 2025 !-4.pdf" width="100%" height="600px"></iframe>
