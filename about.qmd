@@ -6,7 +6,7 @@ I am a determined and strong-willed individual. I pride myself in always doing m
 
 I focus on the concepts of sustainability and environmental conservation. It is important for humans and nature to live in harmony while maintain everyone's health and well-being!
 
-<img src="nature.png" width="100%" height="600px">
+<img src="nature.png" width="100%" height="600px"/>
 
 ```         
 ```
