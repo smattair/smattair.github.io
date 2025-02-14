@@ -12,8 +12,10 @@ website:
       - about.qmd
       - projects.qmd
       - resume.qmd
-
-
+  page-footer:
+    background: light # or 'dark'
+    left: Copyright 2025, Sierra Mattair
+    right: This website is built with {{< fa heart title="a heart" >}} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/smattair){target=blank}
 format:
   html:
     theme:
