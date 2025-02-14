@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Sierra's Site"
-  site-url: https://github.com/smattair/smattair.github.io.git
+  site-url: https://smattair.github.io
   navbar:
     left:
       - href: index.qmd
